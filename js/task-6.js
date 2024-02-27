@@ -12,6 +12,7 @@ function handleClick() {
     input.value = "";
   } else {
     alert("Please enter a number from 1 to 100!");
+    input.value = "";
   }
 }
 
